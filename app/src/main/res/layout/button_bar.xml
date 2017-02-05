@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/strip1_1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/album_button"
+        style="@style/top_row"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#2c3e50"
+        android:text="@string/box1" />
+
+    <TextView
+        android:id="@+id/artist_button"
+        style="@style/top_row"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#2c3e50"
+        android:text="@string/box2" />
+
+    <TextView
+        android:id="@+id/genre_button"
+        style="@style/top_row"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#2c3e50"
+        android:text="@string/box3" />
+
+    <TextView
+        android:id="@+id/playlist_button"
+        style="@style/top_row"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#2c3e50"
+        android:text="@string/box4" />
+
+</LinearLayout>
+

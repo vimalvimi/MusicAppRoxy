@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Music App Roxy</string>
+
+    <string name="cover">cover</string>
+
+    <string name="box1">Album</string>
+    <string name="box2">Artist</string>
+    <string name="box3">Genre</string>
+    <string name="box4">Playlist</string>
+
+    <string name="img1">cover</string>
+
+
+    <string name="box31">Previous</string>
+    <string name="box32">Play</string>
+    <string name="box33">Next</string>
+
+
+    <string name="home_text">Music Player Home</string>
+    <string name="album_text">Your music is sorted in Albums</string>
+    <string name="artis_text">Your music is sorted by Artist</string>
+    <string name="genre_text">Your music is sorted by Genres</string>
+    <string name="playlist_text">Your Playlist</string>
+
+</resources>
