@@ -17,9 +17,9 @@
 
 
     <string name="home_text">Music Player Home</string>
-    <string name="album_text">Your music is sorted in Albums</string>
-    <string name="artis_text">Your music is sorted by Artist</string>
-    <string name="genre_text">Your music is sorted by Genres</string>
-    <string name="playlist_text">Your Playlist</string>
+    <string name="album_text">This Activity displays your music sorted in albums</string>
+    <string name="artis_text">This Activity displays your music sorted by artists</string>
+    <string name="genre_text">This Activity displays your music sorted by generes</string>
+    <string name="playlist_text">This Activity displays your playlists</string>
 
 </resources>
