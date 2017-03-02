@@ -16,10 +16,10 @@
     <string name="box33">Next</string>
 
 
-    <string name="home_text">Music Player Home</string>
-    <string name="album_text">This Activity displays your music sorted in albums</string>
-    <string name="artis_text">This Activity displays your music sorted by artists</string>
-    <string name="genre_text">This Activity displays your music sorted by generes</string>
-    <string name="playlist_text">This Activity displays your playlists</string>
+    <string name="home_text">This Activity is your home with menu bar</string>
+    <string name="album_text">This Activity displays your music sorted in albums in  list view in linearlayout with nested horizontal linearlayout having imageviews to hold images</string>
+    <string name="artis_text">This Activity displays your music sorted by artists in list view in linearlayout with nested horizontal linearlayout having imageviews to hold images</string>
+    <string name="genre_text">This Activity displays your music sorted by generes in list view in linearlayout with textviews</string>
+    <string name="playlist_text">This Activity displays your playlists in listview in linearlayout with nested horiznal linear layout with background colors</string>
 
 </resources>
