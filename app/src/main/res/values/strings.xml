@@ -16,7 +16,7 @@
     <string name="box33">Next</string>
 
 
-    <string name="home_text">This Activity is your home with menu bar</string>
+    <string name="home_text">This Activity is your home with a menu bar with intents to different activities</string>
     <string name="album_text">This Activity displays your music sorted in albums in  list view in linearlayout with nested horizontal linearlayout having imageviews to hold images</string>
     <string name="artis_text">This Activity displays your music sorted by artists in list view in linearlayout with nested horizontal linearlayout having imageviews to hold images</string>
     <string name="genre_text">This Activity displays your music sorted by generes in list view in linearlayout with textviews</string>
